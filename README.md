@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 That's why I like to make things that make a difference.
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/SHAIK2300/SHAIK2300/master/coding.gif"  />
 
 
 ### Talking about Personal Stuffs:
@@ -37,7 +37,7 @@ That's why I like to make things that make a difference.
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/SHAIK2300" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
+<a href="https://github.com/SHAIK2300" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SHAIK2300" height="30" width="40" /></a>
 &nbsp;
 <a href="https://leetcode.com/SHAIK2300/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SHAIK2300" height="30" width="40" /></a>
 &nbsp;
@@ -136,7 +136,7 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
   <br/>
 
   <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=SHAIK2300&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
   </p>
 
 </details>
@@ -145,8 +145,8 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="SHAIK2300's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SHAIK2300&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="SHAIK2300's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIK2300&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
   <br/>
   ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
   <br/>
@@ -154,7 +154,7 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
 <p align=center>
   <a href="https://git.io/streak-stats" title="Go to Source">
-    <img alt="AswinBarath's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AswinBarath&theme=react&border=61dafb" height="192px"/>
+    <img alt="SHAIK2300's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIK2300&theme=react&border=61dafb" height="192px"/>
   </a>
 </p>
 <br />
